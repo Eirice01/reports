@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "data": {
+    "currPage": 1,
+    "list": [
+      {
+        "china": true,
+        "countryAbbreviation": "CN",
+        "countryName": "中国",
+        "peopleNums": "32.42万",
+        "ratio": "100.00%"
+      },
+      {
+        "china": false,
+        "countryAbbreviation": "US",
+        "countryName": "美国",
+        "peopleNums": "4",
+        "ratio": "0.00%"
+      }
+    ],
+    "pageSize": 20,
+    "totalCount": 2,
+    "totalPage": 1
+  },
+  "msg": "success"
+}

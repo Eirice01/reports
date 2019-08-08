@@ -1,0 +1,54 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "cityCode": "61010006",
+      "cityName": "沣西新城"
+    },
+    {
+      "cityCode": "61010004",
+      "cityName": "浐灞区"
+    },
+    {
+      "cityCode": "61010009",
+      "cityName": "空港新城"
+    },
+    {
+      "cityCode": "61010007",
+      "cityName": "航天区"
+    },
+    {
+      "cityCode": "61010010",
+      "cityName": "泾河新城 "
+    },
+    {
+      "cityCode": "61010012",
+      "cityName": "航空区"
+    },
+    {
+      "cityCode": "61010003",
+      "cityName": "曲江区"
+    },
+    {
+      "cityCode": "61010001",
+      "cityName": "高新区"
+    },
+    {
+      "cityCode": "61010002",
+      "cityName": "经开区"
+    },
+    {
+      "cityCode": "61010008",
+      "cityName": "港务区"
+    },
+    {
+      "cityCode": "61010005",
+      "cityName": "沣东新城"
+    },
+    {
+      "cityCode": "61010011",
+      "cityName": "秦汉新城"
+    }
+  ],
+  "msg": "success"
+}

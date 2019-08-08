@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "data": {
+    "cardid": "610127199110030077",
+    "dname": "总机构",
+    "dutyname": "开发员",
+    "fullname": "超级管理员",
+    "id": "1032",
+    "keyList": [
+      "key100",
+      "key100101",
+      "key200",
+      "key200101",
+      "key200102",
+      "key300",
+      "key300101",
+      "key300102",
+      "key400",
+      "key400101",
+      "key400102",
+      "key500",
+      "key500101",
+      "key500102",
+      "key500103"
+    ],
+    "pathList": [
+      "Population",
+      "Tour",
+      "Analyze",
+      "Contrast",
+      "Contrast",
+      "Report",
+      "System",
+      "KeyPeople",
+      "ScenicArea",
+      "Management"
+    ],
+    "username": "admin"
+  },
+  "msg": "success"
+}

@@ -1,0 +1,210 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "cityCode": "130000",
+      "cityName": "河北省",
+      "pid": "0",
+      "proName": "河北省"
+    },
+    {
+      "cityCode": "140000",
+      "cityName": "山西省",
+      "pid": "0",
+      "proName": "山西省"
+    },
+    {
+      "cityCode": "150000",
+      "cityName": "内蒙古自治区",
+      "pid": "0",
+      "proName": "内蒙古自治区"
+    },
+    {
+      "cityCode": "210000",
+      "cityName": "辽宁省",
+      "pid": "0",
+      "proName": "辽宁省"
+    },
+    {
+      "cityCode": "220000",
+      "cityName": "吉林省",
+      "pid": "0",
+      "proName": "吉林省"
+    },
+    {
+      "cityCode": "230000",
+      "cityName": "黑龙江省",
+      "pid": "0",
+      "proName": "黑龙江省"
+    },
+    {
+      "cityCode": "320000",
+      "cityName": "江苏省",
+      "pid": "0",
+      "proName": "江苏省"
+    },
+    {
+      "cityCode": "330000",
+      "cityName": "浙江省",
+      "pid": "0",
+      "proName": "浙江省"
+    },
+    {
+      "cityCode": "340000",
+      "cityName": "安徽省",
+      "pid": "0",
+      "proName": "安徽省"
+    },
+    {
+      "cityCode": "350000",
+      "cityName": "福建省",
+      "pid": "0",
+      "proName": "福建省"
+    },
+    {
+      "cityCode": "360000",
+      "cityName": "江西省",
+      "pid": "0",
+      "proName": "江西省"
+    },
+    {
+      "cityCode": "370000",
+      "cityName": "山东省",
+      "pid": "0",
+      "proName": "山东省"
+    },
+    {
+      "cityCode": "410000",
+      "cityName": "河南省",
+      "pid": "0",
+      "proName": "河南省"
+    },
+    {
+      "cityCode": "420000",
+      "cityName": "湖北省",
+      "pid": "0",
+      "proName": "湖北省"
+    },
+    {
+      "cityCode": "440000",
+      "cityName": "广东省",
+      "pid": "0",
+      "proName": "广东省"
+    },
+    {
+      "cityCode": "450000",
+      "cityName": "广西壮族自治区",
+      "pid": "0",
+      "proName": "广西壮族自治区"
+    },
+    {
+      "cityCode": "460000",
+      "cityName": "海南省",
+      "pid": "0",
+      "proName": "海南省"
+    },
+    {
+      "cityCode": "510000",
+      "cityName": "四川省",
+      "pid": "0",
+      "proName": "四川省"
+    },
+    {
+      "cityCode": "520000",
+      "cityName": "贵州省",
+      "pid": "0",
+      "proName": "贵州省"
+    },
+    {
+      "cityCode": "530000",
+      "cityName": "云南省",
+      "pid": "0",
+      "proName": "云南省"
+    },
+    {
+      "cityCode": "540000",
+      "cityName": "西藏自治区",
+      "pid": "0",
+      "proName": "西藏自治区"
+    },
+    {
+      "cityCode": "610000",
+      "cityName": "陕西省",
+      "pid": "0",
+      "proName": "陕西省"
+    },
+    {
+      "cityCode": "620000",
+      "cityName": "甘肃省",
+      "pid": "0",
+      "proName": "甘肃省"
+    },
+    {
+      "cityCode": "630000",
+      "cityName": "青海省",
+      "pid": "0",
+      "proName": "青海省"
+    },
+    {
+      "cityCode": "640000",
+      "cityName": "宁夏回族自治区",
+      "pid": "0",
+      "proName": "宁夏回族自治区"
+    },
+    {
+      "cityCode": "650000",
+      "cityName": "新疆维吾尔自治区",
+      "pid": "0",
+      "proName": "新疆维吾尔自治区"
+    },
+    {
+      "cityCode": "710000",
+      "cityName": "台湾省",
+      "pid": "0",
+      "proName": "台湾省"
+    },
+    {
+      "cityCode": "310000",
+      "cityName": "上海市",
+      "pid": "0",
+      "proName": "上海市"
+    },
+    {
+      "cityCode": "120000",
+      "cityName": "天津市",
+      "pid": "0",
+      "proName": "天津市"
+    },
+    {
+      "cityCode": "110000",
+      "cityName": "北京市",
+      "pid": "0",
+      "proName": "北京市"
+    },
+    {
+      "cityCode": "500000",
+      "cityName": "重庆市",
+      "pid": "0",
+      "proName": "重庆市"
+    },
+    {
+      "cityCode": "810000",
+      "cityName": "香港特别行政区",
+      "pid": "0",
+      "proName": "香港特别行政区"
+    },
+    {
+      "cityCode": "820000",
+      "cityName": "澳门特别行政区",
+      "pid": "0",
+      "proName": "澳门特别行政区"
+    },
+    {
+      "cityCode": "430000",
+      "cityName": "湖南省",
+      "pid": "0",
+      "proName": "湖南省"
+    }
+  ],
+  "msg": "success"
+}

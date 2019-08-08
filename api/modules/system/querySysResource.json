@@ -1,0 +1,179 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "createTime": "2019-05-31 10:22:17",
+      "isDefault": 1,
+      "parentId": "0",
+      "resourceId": "100",
+      "resourceKey": "key100",
+      "resourceName": "人口模块",
+      "resourceType": "menu",
+      "resourceUrl": "Population",
+      "sort": 1,
+      "status": 0
+    },
+    {
+      "createTime": "2019-07-05 14:30:38",
+      "isDefault": 0,
+      "parentId": "100",
+      "resourceId": "100101",
+      "resourceKey": "key100101",
+      "resourceName": "人口模块",
+      "resourceType": "menu",
+      "sort": 15,
+      "status": 1
+    },
+    {
+      "createTime": "2019-05-31 10:22:17",
+      "isDefault": 1,
+      "parentId": "0",
+      "resourceId": "200",
+      "resourceKey": "key200",
+      "resourceName": "旅游模块",
+      "resourceType": "menu",
+      "resourceUrl": "Travel",
+      "sort": 2,
+      "status": 0
+    },
+    {
+      "createTime": "2019-05-31 10:38:08",
+      "isDefault": 0,
+      "parentId": "200",
+      "resourceId": "200101",
+      "resourceKey": "key200101",
+      "resourceName": "重点人",
+      "resourceType": "click",
+      "sort": 3,
+      "status": 1
+    },
+    {
+      "createTime": "2019-05-31 10:38:09",
+      "isDefault": 0,
+      "parentId": "200",
+      "resourceId": "200102",
+      "resourceKey": "key200102",
+      "resourceName": "非重点人",
+      "resourceType": "click",
+      "sort": 4,
+      "status": 0
+    },
+    {
+      "createTime": "2019-05-31 10:22:17",
+      "isDefault": 1,
+      "parentId": "0",
+      "resourceId": "300",
+      "resourceKey": "key300",
+      "resourceName": "分析对比",
+      "resourceType": "menu",
+      "resourceUrl": "Analyze",
+      "sort": 5,
+      "status": 1
+    },
+    {
+      "createTime": "2019-05-31 10:38:09",
+      "isDefault": 0,
+      "parentId": "300",
+      "resourceId": "300101",
+      "resourceKey": "key300101",
+      "resourceName": "人口分析",
+      "resourceType": "menu",
+      "resourceUrl": "PopulationAnalyze",
+      "sort": 6,
+      "status": 1
+    },
+    {
+      "createTime": "2019-05-31 10:38:09",
+      "isDefault": 0,
+      "parentId": "300",
+      "resourceId": "300102",
+      "resourceKey": "key300102",
+      "resourceName": "旅游分析",
+      "resourceType": "menu",
+      "resourceUrl": "TravelAnalyze",
+      "sort": 7,
+      "status": 1
+    },
+    {
+      "createTime": "2019-05-31 10:22:17",
+      "isDefault": 1,
+      "parentId": "0",
+      "resourceId": "400",
+      "resourceKey": "key400",
+      "resourceName": "报告管理",
+      "resourceType": "menu",
+      "resourceUrl": "Report",
+      "sort": 8,
+      "status": 1
+    },
+    {
+      "createTime": "2019-05-31 10:38:09",
+      "isDefault": 0,
+      "parentId": "400",
+      "resourceId": "400101",
+      "resourceKey": "key400101",
+      "resourceName": "删除操作",
+      "resourceType": "button",
+      "sort": 9,
+      "status": 1
+    },
+    {
+      "createTime": "2019-05-31 10:38:09",
+      "isDefault": 0,
+      "parentId": "400",
+      "resourceId": "400102",
+      "resourceKey": "key400102",
+      "resourceName": "非删除操作",
+      "resourceType": "button",
+      "sort": 10,
+      "status": 1
+    },
+    {
+      "createTime": "2019-07-04 17:21:08",
+      "isDefault": 1,
+      "parentId": "0",
+      "resourceId": "500",
+      "resourceKey": "key500",
+      "resourceName": "系统管理",
+      "resourceType": "menu",
+      "resourceUrl": "System",
+      "sort": 11,
+      "status": 1
+    },
+    {
+      "createTime": "2019-07-04 17:21:08",
+      "isDefault": 0,
+      "parentId": "500",
+      "resourceId": "500101",
+      "resourceKey": "key500101",
+      "resourceName": "重点人",
+      "resourceType": "menu",
+      "sort": 12,
+      "status": 1
+    },
+    {
+      "createTime": "2019-07-04 17:21:08",
+      "isDefault": 0,
+      "parentId": "500",
+      "resourceId": "500102",
+      "resourceKey": "key500102",
+      "resourceName": "景区",
+      "resourceType": "menu",
+      "sort": 13,
+      "status": 1
+    },
+    {
+      "createTime": "2019-07-04 17:21:08",
+      "isDefault": 0,
+      "parentId": "500",
+      "resourceId": "500103",
+      "resourceKey": "key500103",
+      "resourceName": "权限管理",
+      "resourceType": "menu",
+      "sort": 14,
+      "status": 1
+    }
+  ],
+  "msg": "success"
+}
+

@@ -1,0 +1,48 @@
+{
+  "code": 200,
+  "data": [
+      {
+        "cityCode": "61010006",
+        "cityName": "所有景区"
+      },
+      {
+        "cityCode": "61010004",
+        "cityName": "大唐芙蓉园"
+      },
+      {
+        "cityCode": "61010009",
+        "cityName": "大雁塔"
+      },
+      {
+        "cityCode": "61010007",
+        "cityName": "大唐不夜城"
+      },
+      {
+        "cityCode": "61010010",
+        "cityName": "曲江池 "
+      },
+      {
+        "cityCode": "61010012",
+        "cityName": "兵马俑"
+      },
+      {
+        "cityCode": "61010003",
+        "cityName": "华山"
+      },
+      {
+        "cityCode": "61010001",
+        "cityName": "回民街"
+      },
+      {
+        "cityCode": "61010002",
+        "cityName": "翠花山"
+      },
+      {
+        "cityCode": "61010008",
+        "cityName": "七夕公园"
+      }
+    ],
+  "msg": "success"
+}
+
+
