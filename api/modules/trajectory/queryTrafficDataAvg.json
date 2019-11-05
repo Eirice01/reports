@@ -1,0 +1,14 @@
+{
+  "code": 200,
+  "data": {
+    "needDistanceAvg": "11.38",
+    "needDurationAvg": "3.13",
+    "needODQuantity": 2038,
+    "needRushHour": "09:00",
+    "totalDistanceAvg": "8.58",
+    "totalDurationAvg": "3.25",
+    "totalODQuantity": 2631,
+    "totalRushHour": "09:00"
+  },
+  "msg": "success"
+}

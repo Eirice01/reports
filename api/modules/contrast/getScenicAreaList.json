@@ -1,0 +1,58 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "cityCode": "12",
+      "cityName": "祥峪森林公园"
+    },
+    {
+      "cityCode": "13",
+      "cityName": "小寨"
+    },
+    {
+      "cityCode": "1",
+      "cityName": "西安世博园"
+    },
+    {
+      "cityCode": "2",
+      "cityName": "大雁塔大慈恩寺"
+    },
+    {
+      "cityCode": "3",
+      "cityName": "浐灞国家湿地公园"
+    },
+    {
+      "cityCode": "4",
+      "cityName": "大唐芙蓉园"
+    },
+    {
+      "cityCode": "5",
+      "cityName": "兵马俑"
+    },
+    {
+      "cityCode": "6",
+      "cityName": "太平国家森林公园"
+    },
+    {
+      "cityCode": "7",
+      "cityName": "大明宫国家遗址公园"
+    },
+    {
+      "cityCode": "8",
+      "cityName": "汉长城遗址"
+    },
+    {
+      "cityCode": "9",
+      "cityName": "楼观台"
+    },
+    {
+      "cityCode": "10",
+      "cityName": "南五台"
+    },
+    {
+      "cityCode": "11",
+      "cityName": "陕西历史博物馆"
+    }
+  ],
+  "msg": "success"
+}

@@ -1,0 +1,208 @@
+{
+  "pczfb_content_013": {
+    "imgTitle": "近1天（20190815）西安市（白天）常住人",
+    "res": [
+      {
+      "geometry": {
+        "coordinates": [108.99105598491462,
+          34.298442063961645],
+        "type": "Point"
+      },
+      "properties": {
+        "weight": 6504
+      },
+      "type": "Feature"
+    },
+      {
+        "geometry": {
+          "coordinates": [108.83231786596676,
+            34.52790509042228],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5755
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.94188931090423,
+            34.31932834235011],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5752
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.94329407301879,
+            34.29496051247865],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5712
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.94188931090423,
+            34.32860946490735],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5675
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.99807979548754,
+            34.27871136447938],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5528
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.87586549151882,
+            34.195094707644486],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5360
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.9180083549563,
+            34.293799963252496],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5342
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.92222264130005,
+            34.15906752531434],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5323
+        },
+        "type": "Feature"
+      }]
+  },
+  "pczfb_content_014": {
+    "imgTitle": "近1天（20190815）西安市（夜间）常住人",
+    "res": [
+      {
+      "geometry": {
+        "coordinates": [108.9362702624459,
+          34.16371705829458],
+        "type": "Point"
+      },
+      "properties": {
+        "weight": 6369
+      },
+      "type": "Feature"
+    },
+      {
+        "geometry": {
+          "coordinates": [108.99807979548754,
+            34.27871136447938],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 6340
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.9180083549563,
+            34.293799963252496],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 6254
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.90536549592508,
+            34.305404734025224],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5871
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.64267498049809,
+            34.348328441726736],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5628
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.99105598491462,
+            34.298442063961645],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5572
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.93767502456046,
+            34.16371705829458],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 5527
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.90396073381048,
+            34.22181461057081],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 4813
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [108.98122265011253,
+            34.293799963252496],
+          "type": "Point"
+        },
+        "properties": {
+          "weight": 4812
+        },
+        "type": "Feature"
+      }]
+  }
+}

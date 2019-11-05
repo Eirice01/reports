@@ -1,0 +1,58 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "areaId": "12",
+      "areaName": "祥欲森林公园"
+    },
+    {
+      "areaId": "13",
+      "areaName": "小寨"
+    },
+    {
+      "areaId": "1",
+      "areaName": "西安世博园"
+    },
+    {
+      "areaId": "2",
+      "areaName": "大雁塔大慈恩寺"
+    },
+    {
+      "areaId": "3",
+      "areaName": "浐灞国家湿地公园"
+    },
+    {
+      "areaId": "4",
+      "areaName": "大唐芙蓉园"
+    },
+    {
+      "areaId": "11",
+      "areaName": "陕西历史博物馆"
+    },
+    {
+      "areaId": "6",
+      "areaName": "太平国家森林公园"
+    },
+    {
+      "areaId": "7",
+      "areaName": "大明宫国家遗址公园"
+    },
+    {
+      "areaId": "8",
+      "areaName": "汉长城遗址"
+    },
+    {
+      "areaId": "9",
+      "areaName": "观楼台"
+    },
+    {
+      "areaId": "10",
+      "areaName": "南五台"
+    },
+    {
+      "areaId": "5",
+      "areaName": "兵马俑"
+    }
+  ],
+  "msg": "success"
+}

@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "areaId": "1",
+      "areaName": "all"
+    }
+  ],
+  "msg": "success"
+}

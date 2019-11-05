@@ -1,0 +1,25 @@
+{
+  "createTime": "string",//创建时间
+  "list": [
+    {
+      "area": "string",//行政区/景区
+      "cityOrDev": "string",
+      "dayOrNight": "string",
+      "field02": "string",
+      "homeArea": "string",//归属地/来源地 区域
+      "id": "string",//id
+      "ptype": "string",//人口类型
+      "rid": "string",//报告id
+      "stype": "string",//来源类型
+      "tid": "string",//三级标题id
+      "timeType": "string",
+      "times": "string",//时间
+      "type": "string",//模块类型 1：人口，2：旅游
+      "typePic": "string"
+    }
+  ],
+  "rid": "string",//报告id
+  "rname": "string",//报告名称
+  "userId": "string",//用户id
+  "userName": "string"//用户名称
+}

@@ -1,0 +1,258 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "flag": "0",
+      "id": "p1_rkjg_2_3rksljg",
+      "list": [
+        {
+          "content": "西安市人口统计情况",
+          "id": "prksl_content_001",
+          "origin": "0",
+          "people": "1",
+          "region": "1"
+        },
+        {
+          "content": "西安市各类人口统计情况",
+          "id": "prksl_content_002",
+          "origin": "0",
+          "people": "1",
+          "region": "1"
+        },
+        {
+          "content": "西安市各类人口统计情况",
+          "id": "prksl_content_003",
+          "origin": "0",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "人口数量与人口结构"
+    },
+    {
+      "flag": "0",
+      "id": "p1_rkjg_2_3qxrk",
+      "list": [
+        {
+          "content": "各区县人口统计情况",
+          "id": "pqxrk_content_004",
+          "origin": "0",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "各区县人口数量"
+    },
+    {
+      "flag": "0",
+      "id": "p1_rkjg_2_3kfqrk",
+      "list": [
+        {
+          "content": "各开发区人口统计情况",
+          "id": "pkfqr_content_005",
+          "origin": "0",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "各开发区人口数量"
+    },
+    {
+      "flag": "0",
+      "id": "p1_xwtz_2rkly_3gsd",
+      "list": [
+        {
+          "content": "人口归属分布",
+          "flager": "1",
+          "id": "prkgs_content_006",
+          "origin": "1",
+          "people": "1",
+          "region": "1"
+        },
+        {
+          "content": "来源各个国家（除西安市）的分布情况",
+          "flager": "1",
+          "id": "prkgs_content_007",
+          "origin": "1",
+          "people": "1",
+          "region": "1"
+        },
+        {
+          "content": "来源我国各省份（除西安市）的分布情况",
+          "flager": "1",
+          "id": "prkgs_content_008",
+          "origin": "1",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "归属地分布"
+    },
+    {
+      "flag": "0",
+      "id": "p1_xwtz_2rkly_3lyd",
+      "list": [
+        {
+          "content": "人口来源分布",
+          "flager": "0",
+          "id": "prkly_content_009",
+          "origin": "1",
+          "people": "1",
+          "region": "1"
+        },
+        {
+          "content": "来源我国各省份（除西安市）的分布情况",
+          "flager": "0",
+          "id": "prkly_content_010",
+          "origin": "1",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "来源地分布"
+    },
+    {
+      "flag": "0",
+      "id": "p1_xwtz_2_3tsqurk",
+      "list": [
+        {
+          "content": "来源地属于特殊区域的人口情况",
+          "flager": "0",
+          "id": "ptsqy_content_011",
+          "origin": "1",
+          "people": "1",
+          "region": "1",
+          "sarea": "650000,540000"
+        },
+        {
+          "content": "归属地属于特殊区域的人口情况",
+          "flager": "1",
+          "id": "ptsqy_content_012",
+          "origin": "1",
+          "people": "1",
+          "region": "1",
+          "sarea": "650000,540000"
+        }
+      ],
+      "title": "来源于特殊区域的人口情况"
+    },
+    {
+      "flag": "0",
+      "id": "p1_xwtz_2zlwz_3bczd",
+      "list": [
+        {
+          "content": "白天常驻地分布情况",
+          "id": "pczfb_content_013",
+          "origin": "0",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "白天常驻地"
+    },
+    {
+      "flag": "0",
+      "id": "p1_xwtz_2zlwz_3yczd",
+      "list": [
+        {
+          "content": "夜间常驻地分布情况",
+          "id": "pczfb_content_014",
+          "origin": "0",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "夜间常驻地"
+    },
+    {
+      "flag": "1",
+      "id": "t1_lyqk_2ykhx_3yksl",
+      "list": [
+        {
+          "content": "景区游客数量统计情况",
+          "id": "tyksl_content_001",
+          "origin": "0",
+          "people": "1",
+          "region": "1"
+        },
+        {
+          "content": "景区游客数量统计情况",
+          "id": "tyksl_content_002",
+          "origin": "0",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "景区游客数量"
+    },
+    {
+      "flag": "1",
+      "id": "t1_lyqk_2ykhx_3gsdfb",
+      "list": [
+        {
+          "content": "景区游客来源分布",
+          "flager": "1",
+          "id": "tgsd_content_003",
+          "origin": "1",
+          "people": "1",
+          "region": "1"
+        },
+        {
+          "content": "景区游客来源分布情况",
+          "flager": "1",
+          "id": "tgsd_content_004",
+          "origin": "1",
+          "people": "1",
+          "region": "1"
+        },
+        {
+          "content": "景区游客来源分布情况（省）",
+          "flager": "1",
+          "id": "tgsd_content_005",
+          "origin": "1",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "游客来源（归属地）分布"
+    },
+    {
+      "flag": "1",
+      "id": "t1_lyqk_2ykhx_3lydfb",
+      "list": [
+        {
+          "content": "景区游客来源分布",
+          "flager": "0",
+          "id": "tlyd_content_006",
+          "origin": "1",
+          "people": "1",
+          "region": "1"
+        },
+        {
+          "content": "景区游客来源分布情况（省）",
+          "flager": "0",
+          "id": "tlyd_content_007",
+          "origin": "1",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "游客来源（来源地）分布"
+    },
+    {
+      "flag": "1",
+      "id": "t1_lyqk_2ykhx_3tlsc",
+      "list": [
+        {
+          "content": "景区游客停留时长分布",
+          "id": "tscfb_content_008",
+          "origin": "0",
+          "people": "1",
+          "region": "1"
+        }
+      ],
+      "title": "游客停留时长"
+    }
+  ],
+  "msg": "success"
+}

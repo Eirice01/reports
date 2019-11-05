@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "data": {
+    "data": [
+      {
+        "createTime": "2019-09-19 11:20:28",
+        "createUserId": "1032",
+        "departmentId": "1",
+        "isdefault": "1",
+        "roleId": "739bc4c7-2d98-4c42-ba08-0dfcedc5e8c0",
+        "roleName": "测试默认"
+      },
+      {
+        "createTime": "2019-09-09 17:41:31",
+        "createUserId": "1032",
+        "departmentId": "1",
+        "isdefault": "0",
+        "roleId": "c79315d2-1512-4918-bcbf-faabd28b64b8",
+        "roleName": "一般用户"
+      },
+      {
+        "createTime": "2019-08-23 11:54:35",
+        "createUserId": "1032",
+        "departmentId": "1023",
+        "isdefault": "0",
+        "roleId": "114",
+        "roleName": "超级用户"
+      },
+      {
+        "createTime": "2019-07-22 10:12:08",
+        "createUserId": "1032",
+        "departmentId": "1023",
+        "isdefault": "0",
+        "roleId": "111",
+        "roleName": "超级管理员"
+      }
+    ],
+    "total": 4
+  },
+  "msg": "success"
+}

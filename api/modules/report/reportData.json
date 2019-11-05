@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "data": {
+    "currPage": 1,
+    "list": [
+      {
+        "createTime": "2019-08-16 17:36:25",
+        "rid": "Kye7362511e17b123a634352",
+        "rname": "测试新",
+        "userId": "1032",
+        "userName": "admin"
+      },
+      {
+        "createTime": "2019-08-15 17:10:16",
+        "rid": "Kye71016710d89c45f7816e5",
+        "rname": "测试新增报告",
+        "userId": "1032",
+        "userName": "admin"
+      },
+      {
+        "createTime": "2019-08-14 02:23:45",
+        "rid": "Kye643017ea8efd174f11111",
+        "rname": "只有热力时数据测试",
+        "userId": "1032",
+        "userName": "admin"
+      },
+      {
+        "createTime": "2019-08-14 02:23:45",
+        "rid": "Kye643017ea8ef41lkjhnngo",
+        "rname": "部分数据测试",
+        "userId": "1032",
+        "userName": "admin"
+      },
+      {
+        "createTime": "2019-08-14 02:23:45",
+        "rid": "Kye643017ea8efd174fplk99",
+        "rname": "来源归属地数据测试",
+        "userId": "1032",
+        "userName": "admin"
+      },
+      {
+        "createTime": "2019-08-14 02:23:45",
+        "rid": "Kye643017ea8efd174f81234",
+        "rname": "全量数据测试",
+        "userId": "1032",
+        "userName": "admin"
+      }
+    ],
+    "pageSize": 20,
+    "totalCount": 6,
+    "totalPage": 0
+  },
+  "msg": "success"
+}
+
